@@ -1,2 +1,1 @@
-# vqa_molecule_optim
-Molecular geometry optimization with Variational Quantum Algorithms 
+# vMolecular geometry optimization with Variational Quantum Algorithms
