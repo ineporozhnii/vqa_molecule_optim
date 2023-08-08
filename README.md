@@ -1,1 +1,1 @@
-# Molecular geometry optimization with Variational Quantum Algorithms
+# Molecular geometry optimization with Variational Quantum Eigensolver
